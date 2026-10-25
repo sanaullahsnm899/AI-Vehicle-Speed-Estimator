@@ -2,7 +2,7 @@
 
 A computer-vision notebook that tracks vehicles in recorded traffic footage and estimates their **speed when they cross a configurable virtual line**. It annotates detections and displays speed readings in miles per hour (mph).
 
-**Notebook:** `speed_estimator (1) (1).ipynb`
+**Notebook:** `speed_estimator.ipynb`
 
 ## Features
 - Detects **cars, motorcycles, buses, and trucks** using pretrained YOLO26 Small (`yolo26s.pt`).
